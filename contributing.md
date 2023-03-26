@@ -1,25 +1,18 @@
-# Contribution Guidelines
+# 贡献指南
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+请注意，本项目采用 [参与者行为准则](code-of-conduct.md) 发布。参与此项目即表示您同意遵守其中的条款。
 
----
+"---" should be translated to "---" in Chinese because it is a symbol commonly used as a horizontal rule or divider, and does not have a direct translation.
 
-Ensure your pull request adheres to the following guidelines:
+确保您的拉取请求遵循以下准则：
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- 确保你照顾好这个
+- 还有这个
+- 别忘了检查这个
 
-Thank you for your suggestions!
+谢谢您的建议！
 
+## 更新你的 PR
 
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+很多时候，要让一个PR符合上述规范可能很困难。
+如果维护者发现有什么需要改变的，我们会要求您在合并之前编辑您的PR。不需要打开一个新的PR，只需编辑现有的PR。如果您不确定如何做到这一点，[这里有一个指南](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)，介绍了不同的方法来更新您的PR，以便我们可以合并它。
